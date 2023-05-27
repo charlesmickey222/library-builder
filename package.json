@@ -1,5 +1,25 @@
 {
   "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^20.4.0",
     "puppeteer-core": "^20.4.0"
-  }
+  },
+  "name": "library-creation-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesmickey222/library-builder.git"
+  },
+  "author": "Charlie Mickey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesmickey222/library-builder/issues"
+  },
+  "homepage": "https://github.com/charlesmickey222/library-builder#readme",
+  "description": ""
 }
